@@ -49,3 +49,12 @@ Linux VM
 
 # Project Architecture
 
+User Browser
+↓
+Azure Public IP
+↓
+Azure Linux VM
+↓
+Flask Application (Port 5000)
+
+
