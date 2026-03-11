@@ -64,7 +64,7 @@ Flask Application (Port 5000)
 
 git clone https:https://github.com/tevinbisuali/azure-flask-devops-project.git
 
-cd azure-terraform-linux-devops-project
+cd azure-flask-devops-project
 
 # Step 2: Login to Azure
 
@@ -117,7 +117,7 @@ sudo apt install -y git python3 python3-pip python3-venv
 
 git clone https:https://github.com/tevinbisuali/azure-flask-devops-project.git
 
-cd azure-terraform-linux-devops-project/app
+cd azure-flask-devops-project.git/app
 
 # Step 9: Create Python Virtual Environment
 
