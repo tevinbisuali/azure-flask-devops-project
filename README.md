@@ -62,7 +62,7 @@ Flask Application (Port 5000)
 
 # Step 1: Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/azure-terraform-linux-devops-project.git
+git clone https:https://github.com/tevinbisuali/azure-flask-devops-project.git
 
 cd azure-terraform-linux-devops-project
 
@@ -115,7 +115,7 @@ sudo apt install -y git python3 python3-pip python3-venv
 
 # Step 8: Clone Application Repository
 
-git clone https://github.com/YOUR_USERNAME/azure-terraform-linux-devops-project.git
+git clone https:https://github.com/tevinbisuali/azure-flask-devops-project.git
 
 cd azure-terraform-linux-devops-project/app
 
