@@ -89,7 +89,7 @@ resource "azurerm_linux_virtual_machine" "vm" {
 
   admin_ssh_key {
     username   = "azureuser"
-    public_key = file("C:/Users/Tevin B/.ssh/id_rsa.pub")
+    public_key = file("C:/Users/YOUR_WINDOWS_USERNAME/.ssh/id_rsa.pub")
   }
 
   os_disk {
@@ -107,3 +107,4 @@ resource "azurerm_linux_virtual_machine" "vm" {
   computer_name                   = "devopsvm"
   disable_password_authentication = true
 }
+
